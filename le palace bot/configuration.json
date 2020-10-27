@@ -1,0 +1,11 @@
+{
+    "token": "j83sUIQA5hxs8lgQeZvACqwgZDpXWK8I",
+    "antiSpam": true,
+    "allowSpam": [],
+    "captcha": false,
+    "captchaChannel": 0,
+    "logChannel": 0,
+    "temporaryRole": 0,
+    "roleGivenAfterCaptcha": false,
+    "minAccountDate": 86400
+}
